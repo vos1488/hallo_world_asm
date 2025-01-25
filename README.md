@@ -17,7 +17,7 @@ A colorful "Hello World" program written in x86_64 assembly for macOS, featuring
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/yourusername/hallo_world_asm.git
+git clone https://github.com/vos1488/hallo_world_asm.git
 cd hallo_world_asm
 ```
 
